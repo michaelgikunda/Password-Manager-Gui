@@ -1,7 +1,7 @@
 # Password-Manager-Gui
 This is an upgraded version of the earlier made CLI password Manager
 
-Password Manager GUI
+----------------------------------------------------------------------------------------------------------
 
 This Project Challanged me to impliment the functionality of the previously made CLI password manager
 i used the consept of inheritance to reduce the coding time and improve productivity.
